@@ -1,6 +1,6 @@
 name: grafium
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.50183
 typography_spectrum: 0.57299
 title: grafium.grid
 cta:
@@ -22,8 +22,8 @@ color:
     - '#5a4c4c'
     - '#cf1b00'
     - '#fe702e'
-  brandStrength: 0.5
-  lightness: 0.8125
+  brandStrength: 0.3125
+  lightness: 0.4375
   saturation: 0.1875
   rhythmicContrast: 0
 purpose: []
