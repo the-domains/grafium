@@ -2,6 +2,7 @@ name: grafium
 favicon: null
 layout_spectrum: 0.25111
 typography_spectrum: 0.56045
+title: grafium.grid
 cta:
   domain: null
   bucket: null
