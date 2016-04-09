@@ -1,7 +1,7 @@
 name: grafium
 favicon: null
-layout_spectrum: 0.2835223670117557
-typography_spectrum: 0.8834975936915725
+layout_spectrum: 0.25111
+typography_spectrum: 0.56045
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#5a4c4c'
     - '#cf1b00'
     - '#fe702e'
-  brandStrength: 0.2924770968966186
-  lightness: 0.3907955789472908
-  saturation: 0.07548795244656503
-  rhythmicContrast: 0.10620538215152919
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0
 purpose: []
